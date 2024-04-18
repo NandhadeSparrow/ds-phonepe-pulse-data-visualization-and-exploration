@@ -1,0 +1,9 @@
+pandas
+mysql
+sqlalchemy
+streamlit
+folium
+streamlit_folium
+geopandas
+plotly
+statsmodels
